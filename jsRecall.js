@@ -1,9 +1,9 @@
 //  1)How do we assign a value to a variable?
-        let myName='Suneetha';
+        let myName = 'Suneetha';
 //  2)How do we change the value of a variable?
-        myName='Swetha';
+        myName = 'Swetha';
 //  3)How do we assign an existing variable to a new variable?
-        let new_name=myName;
+        let new_name = myName;
 //  4)Remind me, what are declare, assign, and define?
         let num; // declare
         num = 10; // assign and define the variable
